@@ -1660,6 +1660,6 @@ input, select, textarea {
 		.resume {
 			height: auto;
 			width: auto;
-			max-width: 1500px;
-			max-height: 1500px;
+			max-width: 1200px;
+			max-height: 1200px;
 		}
