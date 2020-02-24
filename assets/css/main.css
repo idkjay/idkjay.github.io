@@ -1663,3 +1663,12 @@ input, select, textarea {
 			max-width: 957px;
 			max-height: 957px;
 		}
+
+		@media only screen and (max-width: 1690px) {
+		  .resume {
+				height: auto;
+				width: auto;
+				max-width: 600px;
+				max-height: 600px;
+		  }
+		}
