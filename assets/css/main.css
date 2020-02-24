@@ -1665,8 +1665,6 @@ input, select, textarea {
 
 		@media only screen and (max-width: 1690px) {
 		  .resume {
-				height: auto;
-				min-width: 100%;
-
+				object-fit: contain;
 		  }
 		}
