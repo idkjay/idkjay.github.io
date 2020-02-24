@@ -1660,15 +1660,16 @@ input, select, textarea {
 		.resume {
 			height: auto;
 			width: auto;
-			max-width: 957px;
-			max-height: 957px;
+			/* max-width: 957px; */
+			max-width: 100%;
+			/* max-height: 957px; */
 		}
 
-		@media only screen and (max-width: 1690px) {
+		/* @media only screen and (max-width: 1690px) {
 		  .resume {
 				height: auto;
 				width: auto;
 				max-width: 700px;
 				max-height: 700px;
 		  }
-		}
+		} */
