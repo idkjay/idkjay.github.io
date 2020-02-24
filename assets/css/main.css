@@ -1658,13 +1658,8 @@ input, select, textarea {
 		}
 
 		.resume {
-			height: auto;
-			width: auto;
-			max-width: 100%;
-		}
-
-		@media only screen and (max-width: 1690px) {
-		  .resume {
-				object-fit: contain;
-		  }
+	    width: 100%;
+	    margin-left: auto;
+	    margin-right: auto;
+	    height: auto;
 		}
