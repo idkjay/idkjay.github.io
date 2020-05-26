@@ -1784,3 +1784,11 @@ body.is-preload #footer {
 	margin-right: auto;
 	height: auto;
 }
+
+.resumeholder {
+	text-align: center;
+}
+
+.the_resume {
+	display: inline-block;
+}
