@@ -1,1 +1,1 @@
-Portfolio to display projects
+Portfolio site to display projects, resume, skills, etc.
